@@ -1,3 +1,5 @@
 red
 black
 gray
+amber
+light blue
