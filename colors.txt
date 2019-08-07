@@ -1,8 +1,5 @@
 red
-orange
-pink
-#####
-green
-
-
-
+black
+gray
+amber
+light blue
