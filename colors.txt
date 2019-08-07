@@ -3,3 +3,10 @@ black
 gray
 amber
 light blue
+
+git stash save “message”
+git pull
+git stash pop
+git add .  or git add src
+git commit -m “message’
+git push
